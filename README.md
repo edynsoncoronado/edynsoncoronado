@@ -1,5 +1,26 @@
-<p align="center">
-  <img alt="coding" width="500" height="370" src="https://media2.giphy.com/media/2CV88JdrUCOYT5Ec8j/giphy.gif"/>
-</p>
 <h1 align="center">Hi 👋, I'm Edynson Coronado</h1>
-<h3 align="center">A passionate Full Stack developer from Peru</h3>
+<h3 align="center">A passionate Full Stack developer from Peru 🇵🇪</h3>
+
+       ______  _______   _______  _______   _____
+      |  ____||  __ \ \ / /  __ \|  __ \ \ / ____|
+      | |__   | |__) \ V /| |__) | |__) | | (___
+      |  __|  |  _  / > < |  _  /|  _  /   \___ \
+      | |____ | | \ \ / . \| | \ \| | \ \   ____) |
+      |______||_|  \_\_/ \_\_|  \_\_|  \_\ |_____/
+
+      "Have you tried turning it off and on again?"
+
+         (╯°□°)╯︵ ┻━┻   // Roy
+          ( •_•)       // Moss
+          <)   )╯      // Jen
+           /  \
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edynsoncoronado&langs_count=8)
+
+You can find me on:
+
+- [GitHub as @edynsoncoronado (you are here)](https://github.com/edynsoncoronado)
+- [My website: edynsoncoronado.wordpress.com](https://edynsoncoronado.wordpress.com/)
+- [Twitter as @edynsoncoronado](https://x.com/edynsoncoronado)
+- [Youtube](https://www.youtube.com/@EdynsonCoronado/)
+- [LinkedIn](https://www.linkedin.com/in/edynson-coronado-icochea/)

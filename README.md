@@ -15,12 +15,10 @@
           <)   )╯      // Jen
            /  \
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edynsoncoronado&langs_count=8)
-
 You can find me on:
 
 - [GitHub as @edynsoncoronado (you are here)](https://github.com/edynsoncoronado)
 - [My website: edynsoncoronado.wordpress.com](https://edynsoncoronado.wordpress.com/)
 - [Twitter as @edynsoncoronado](https://x.com/edynsoncoronado)
-- [Youtube](https://www.youtube.com/@EdynsonCoronado/)
+- [Youtube: @EdynsonCoronado](https://www.youtube.com/@EdynsonCoronado/)
 - [LinkedIn](https://www.linkedin.com/in/edynson-coronado-icochea/)
